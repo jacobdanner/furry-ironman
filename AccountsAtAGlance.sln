@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountAtAGlance.Model", "AccountAtAGlance.Model\AccountAtAGlance.Model.csproj", "{3AD7DABB-07C9-4976-A7D9-8C1C318FB031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountAtAGlance.Repo", "AccountAtAGlance.Repo\AccountAtAGlance.Repo.csproj", "{95478402-8044-4A2C-81E3-7038E3409403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountsAtAGlance", "AccountsAtAGlance\AccountsAtAGlance.csproj", "{94776497-C0F7-46F0-8A48-B61CA6AE5448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD7DABB-07C9-4976-A7D9-8C1C318FB031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD7DABB-07C9-4976-A7D9-8C1C318FB031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD7DABB-07C9-4976-A7D9-8C1C318FB031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD7DABB-07C9-4976-A7D9-8C1C318FB031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95478402-8044-4A2C-81E3-7038E3409403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95478402-8044-4A2C-81E3-7038E3409403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95478402-8044-4A2C-81E3-7038E3409403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95478402-8044-4A2C-81E3-7038E3409403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94776497-C0F7-46F0-8A48-B61CA6AE5448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94776497-C0F7-46F0-8A48-B61CA6AE5448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94776497-C0F7-46F0-8A48-B61CA6AE5448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94776497-C0F7-46F0-8A48-B61CA6AE5448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
